@@ -1,0 +1,6 @@
+{
+  "name": "Digital Quality Management",
+  "description": "Centralized enterprise quality management platform with digital audits, defect tracking, CAPA workflows, and AI predictive analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
